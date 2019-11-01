@@ -1,0 +1,9 @@
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.Form1.resources
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.pdb
+C:\Documents and Settings\익준\바탕 화면\2008\08-1학기 수업자료\컴퓨터네트워크\Class\Midterm\Midterm\obj\Debug\Midterm.Form2.resources
